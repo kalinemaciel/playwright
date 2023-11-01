@@ -30,4 +30,8 @@ Fluxos:
 
 `npx playwright show-report` - mostra o report dos testes
 
+## Mapa Mental:
+<img width="1339" alt="sabrina carpenter website" src="https://github.com/kalinemaciel/playwright/assets/91146843/4bff3649-857e-4791-aa7e-2d37c2e0d24a">
+
+
 ### O projeto é simples, apenas para início de estudos. Em breve será melhorado e voltado para aplicações maiores.
