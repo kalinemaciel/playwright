@@ -1,0 +1,14 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Playwright - Qazando</h1> <h2 align=\"center\">Estudos de Automação de Testes WEB</h2>",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Kaline Maciel",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.10"
+  }
+}
