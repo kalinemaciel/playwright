@@ -1,7 +1,7 @@
 <h1 align="center">Playwright - Qazando</h1>
 <h2 align="center">Estudos de Automação de Testes WEB</h2>
 
-### Automação voltada para website da cantora Sabrina Carpenter.
+### Automação voltada para o website da cantora Sabrina Carpenter.
 
 ## 🔨 Projeto desenvolvido.
 Fluxos:
