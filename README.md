@@ -1,8 +1,9 @@
 <h1 align="center">Playwright - Qazando</h1>
 <h2 align="center">Estudos de Automação de Testes WEB</h2>
 
-## 🔨 Projeto em desenvolvimento.
-# Automação simples no website da cantora Sabrina Carpenter.
+### Automação voltada para website da cantora Sabrina Carpenter.
+
+## 🔨 Projeto desenvolvido.
 Fluxos:
 - [x] Ler um email da caixa de correio
 - [x] Visualizar as músicas promovidas e escolher uma para ouvir
@@ -29,4 +30,4 @@ Fluxos:
 
 `npx playwright show-report` - mostra o report dos testes
 
-# O projeto é simples, apenas para início de estudos. Em breve será melhorado e voltado para aplicações maiores.
+### O projeto é simples, apenas para início de estudos. Em breve será melhorado e voltado para aplicações maiores.
